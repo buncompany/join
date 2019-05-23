@@ -17,7 +17,10 @@ Dado o array de IDs, que contém muitos inteiros duplicados e um inteiro único,
 
 ## Desafio:
 
-- Criar uma listagem e uma página de detalhe para visualização da locação;
+- Solucionar o problema;
+- Criar uma listagem das locações;
+- Criar uma página de detalhe para visualização da locação;
+- Criar tela/form para inserção da locação;
 
 ### Requisitos:
 
